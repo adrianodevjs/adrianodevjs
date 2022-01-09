@@ -1,5 +1,5 @@
 Olá, meu nome é Adriano, tenho 21 anos. 
-Atualmente venho buscando desenvolver habilidades na área de programação. 
+Atualmente venho buscando desenvolver habilidades na área de programação web. 
 Em meu perfil você irá encontrar repositório definidos como públicos que usei durante meus estudos. 
 
 
