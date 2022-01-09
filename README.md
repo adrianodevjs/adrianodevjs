@@ -1,16 +1,13 @@
-### Hi there 👋
-Olá, meu nome é Adriano, tenho 21 anos. Atualmente venho buscando desenvolver habilidades na área de programação. Aqui você irá encontrar reposítorios públicos que usei durante meus estudos. 
-<!--
-**adrianodevjs/adrianodevjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu nome é Adriano, tenho 21 anos. 
+Atualmente venho buscando desenvolver habilidades na área de programação. Eu meu perfil, você irá encontrar reposítorios definidos como públicos que usei durante meus estudos. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Minhas habilidades**
+<img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=090d12&style=for-the-badge&logo=javascript"/> <img src="https://img.shields.io/static/v1?label=&message=NodeJS&color=090d12&style=for-the-badge&logo=node.js"/> <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=090d12&style=for-the-badge&logo=html5"/> <img src="https://img.shields.io/static/v1?label=&message=CSS&color=090d12&style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=090d12&style=for-the-badge&logo=mysql"/> <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=090d12&style=for-the-badge&logo=mongodb"/>
+
+### **Ferramentas**
+<img src="https://img.shields.io/static/v1?label=&message=VSCode&color=090d12&style=for-the-badge&logo=visualstudio"/> <img src="https://img.shields.io/static/v1?label=&message=Github&color=090d12&style=for-the-badge&logo=github"/> <img src="https://img.shields.io/static/v1?label=&message=Notion&color=090d12&style=for-the-badge&logo=notion"/> <img src="https://img.shields.io/static/v1?label=&message=Trello&color=090d12&style=for-the-badge&logo=Trello"/> <img src="https://img.shields.io/static/v1?label=&message=Cloudflare&color=090d12&style=for-the-badge&logo=cloudflare"/>
+
+**Estudando atualmente**
+
+<img src="https://img.shields.io/static/v1?label=&message=React&color=090d12&style=for-the-badge&logo=react"/>
