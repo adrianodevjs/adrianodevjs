@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Olá, meu nome é Adriano, tenho 21 anos. Atualmente venho buscando desenvolver habilidades na área de programação. Aqui você irá encontrar reposítorios públicos que usei durante meus estudos. 
 <!--
 **adrianodevjs/adrianodevjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
