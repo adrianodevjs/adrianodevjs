@@ -15,6 +15,8 @@ Em meu perfil você irá encontrar repositório definidos como públicos que use
 
 <hr/>
 
-### **Formas de me contatar**
+### **🌎 Formas de me contatar**
 
-[![Behance: SEU NOME](https://img.shields.io/badge/-adrianomendes_-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/adrianomendes_)](https://www.behance.net/adrianomendes_)
+[![Behance: SEU NOME](https://img.shields.io/badge/-adrianomendes_-090d12?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/adrianomendes_)](https://www.behance.net/adrianomendes_)
+![Discord: SEU NOME](https://img.shields.io/badge/-GGunter1731_-5865F2?style=flat-square&logo=Discord&logoColor=white&link=https://www.behance.net/adrianomendes_)
+
