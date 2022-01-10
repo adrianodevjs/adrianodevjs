@@ -17,4 +17,4 @@ Em meu perfil você irá encontrar repositório definidos como públicos que use
 
 ### **Formas de me contatar**
 
-[![Behance: SEU NOME](https://img.shields.io/badge/-adrianomendes_-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/adrianomendes_)](LINK-DO-SEU-LINKEDIN)
+[![Behance: SEU NOME](https://img.shields.io/badge/-adrianomendes_-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/adrianomendes_)](https://www.behance.net/adrianomendes_)
