@@ -1,6 +1,6 @@
 Olá, meu nome é Adriano, tenho 21 anos. 
-Atualmente venho buscando desenvolver habilidades na área de programação web. 
-Em meu perfil você irá encontrar repositório definidos como públicos que usei durante meus estudos. 
+Atualmente venho buscando desenvolver habilidades na área de programação web.  
+Os repositórios públicos em meu perfil são materiais que utilizei durante o processo de aprendizagem nas aulas que venho tomando conhecimento.
 
 
 ### **Minhas habilidades**
@@ -19,4 +19,7 @@ Em meu perfil você irá encontrar repositório definidos como públicos que use
 
 [![Behance: SEU NOME](https://img.shields.io/badge/-adrianomendes_-090d12?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/adrianomendes_)](https://www.behance.net/adrianomendes_)
 ![Discord: SEU NOME](https://img.shields.io/badge/-GGunter1731_-5865F2?style=flat-square&logo=Discord&logoColor=white&link=https://www.behance.net/adrianomendes_)
+
+
+Obrigado pela visita! :smiling_face_with_three_hearts:
 
