@@ -1,6 +1,6 @@
 Olá, meu nome é Adriano, tenho 21 anos. 
-Atualmente venho buscando desenvolver habilidades na área de programação web.  
-Os repositórios públicos em meu perfil são materiais que utilizei durante o processo de aprendizagem nas aulas que venho tomando conhecimento.
+Sou freelancer em Designer Gráfico e Motion Designer.
+Os repositórios públicos em meu perfil são materiais que utilizei durante o processo de aprendizagem das aulas que tomei conhecimento.
 
 
 ### **Minhas habilidades**
