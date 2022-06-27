@@ -1,7 +1,5 @@
-Olá, meu nome é Adriano, tenho 21 anos.
-
-Sou freelancer em Designer Gráfico e Motion Designer.
-
+Olá, meu nome é Adriano, tenho 21 anos.<br />
+Sou freelancer em Designer Gráfico e Motion Designer.<br />
 Os repositórios públicos em meu perfil são materiais que utilizei durante o processo de aprendizagem das aulas que tomei conhecimento.
 
 
