@@ -10,8 +10,7 @@ Os repositórios públicos em meu perfil são materiais que utilizei durante o p
 <img src="https://img.shields.io/static/v1?label=&message=VSCode&color=090d12&style=for-the-badge&logo=visualstudio"/> <img src="https://img.shields.io/static/v1?label=&message=Github&color=090d12&style=for-the-badge&logo=github"/> <img src="https://img.shields.io/static/v1?label=&message=Notion&color=090d12&style=for-the-badge&logo=notion"/> <img src="https://img.shields.io/static/v1?label=&message=Trello&color=090d12&style=for-the-badge&logo=Trello"/> <img src="https://img.shields.io/static/v1?label=&message=Cloudflare&color=090d12&style=for-the-badge&logo=cloudflare"/>
 
 **Estudando atualmente**
-
-<img src="https://img.shields.io/static/v1?label=&message=React&color=090d12&style=for-the-badge&logo=react"/>
+...
 
 <hr/>
 
