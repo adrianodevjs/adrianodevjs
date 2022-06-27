@@ -13,7 +13,7 @@ Os repositórios públicos em meu perfil são materiais que utilizei durante o p
 
 ### **🌎 Formas de me contatar**
 
-[![Behance: SEU NOME](https://img.shields.io/badge/-adrianomendes_-090d12?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/adrianomendes_)](https://www.behance.net/adrianomotion)
+[![Behance: SEU NOME](https://img.shields.io/badge/-adrianomendes_-090d12?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/adrianomendes_)](https://www.behance.net/adrianomotion)<br />
 ![Discord: SEU NOME](https://img.shields.io/badge/-GGunter1731_-5865F2?style=flat-square&logo=Discord&logoColor=white&link=https://www.behance.net/adrianomendes_)
 
 
